@@ -8,7 +8,7 @@ It’s a pricing page included with a toggle button to change the pricing from A
 
 ### Links
 
-- Check it out here: [https://pricing-component-woad.vercel.app/]
+- Check it out here: https://pricing-component-woad.vercel.app/
 
 ### Continued development
 
