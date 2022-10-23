@@ -1,4 +1,30 @@
-# Create React App
+# About the project
+## Overview
+
+It’s a pricing page included with a toggle button to change the pricing from Annually to Monthly’s price vice versa. The project is a mini components for future project using MERN stack. 
+
+- The components have different optimal layout depending on media’s screen size
+- Toggle switch render two pricing Monthly vs Annually
+
+### Links
+
+- Check it out here: [https://pricing-component-woad.vercel.app/]
+
+### Continued development
+
+I realized that my CSS skills need to be improve. By going back to tutorials and with the help of so many developer on stackoverflow, I got some useful code which I can apply to my projects. 
+
+### Useful resources
+
+- [Button 55 CSS](https://getcssscan.com/css-buttons-examples?ref=beautifulboxshadow-bottom) - This is an amazing source for CSS buttons examples with different design and easy to fetch for the one you want.
+- [FrontEndmentor](https://www.frontendmentor.io/challenges) - Although I did not successfully meet their requirements on CSS but this is the place I seek for projects ideas and they have a great community just like Stackoverflow.
+
+## Future for the project
+
+- Add to a future MERN stack project.
+
+
+# How to Create React App
 
 This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
 
