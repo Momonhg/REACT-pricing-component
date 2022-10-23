@@ -24,7 +24,7 @@ I realized that my CSS skills need to be improve. By going back to tutorials and
 - Add to a future MERN stack project.
 
 
-# How to Create React App
+# How to Create React App and Deploy on Vercel
 
 This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
 
